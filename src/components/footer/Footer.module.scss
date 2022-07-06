@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&family=Poppins&display=swap');
+.footer {
+	display: flex;
+	background: #36d6ad;
+	width: 360px;
+	height: 104px;
+	left: 0px;
+	top: 813px;
+	justify-content: center;
+	align-items: center;
+	&__texto {
+		font-family: "Poppins";
+		font-style: normal;
+		font-weight: 400;
+		font-size: 16px;
+		line-height: 24px;
+    color: #FFFFFF;
+	}
+}
